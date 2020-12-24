@@ -1,0 +1,846 @@
+@media(max-width:1600px){
+    .tag1{
+        transform: rotate(15deg) translate(100px, -30px);
+    }
+    
+    .tag2{
+        transform: rotate(-15deg) translate(200px, 200px);   
+    }
+    
+    .tag3{
+        transform: rotate(-15deg) translate(300px, 600px); 
+        font-size: 100px;  
+    }
+    
+    .tag4{
+        transform: rotate(-15deg) translate(800px, 250px);   
+    }
+    
+    .tag5{
+        transform: rotate(-15deg) translate(800px, 700px); 
+    }
+        
+    .active-new .tag1 {
+        transform: rotate(-15deg) translate(100px, 400px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2 {
+        transform: rotate(5deg) translate(800px, 222px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4 {
+        transform: rotate(20deg) translate(100px, -10px);
+        transition: 3s;
+    }
+    
+    .active-new .tag3 {
+        transform: rotate(10deg) translate(950px, -150px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5 {
+        transform: rotate(20deg) translate(450px, -170px);
+        transition: 3s;
+    }
+
+    .tag1-new{
+        transform: rotate(15deg) translate(210px, 0);
+    }
+    
+    .tag2-new{
+        transform: rotate(15deg) translate(1200px, -10px);   
+    }
+    
+    .tag3-new{
+        transform: rotate( 15deg) translate(300px, 300px); 
+        font-size: 100px;  
+    }
+    
+    .tag4-new{
+        transform: rotate(15deg) translate(100px, 200px);   
+    }
+    
+    .tag5-new{
+        transform: rotate(15deg) translate(900px, -170px); 
+    }
+    
+    .active-new .tag1-new {
+        transform: rotate(-15deg) translate(140px, 430px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2-new {
+        transform: rotate(5deg) translate(100px, 100px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4-new {
+        transform: rotate(20deg) translate(1200px, -400px);
+        transition: 3s;
+    }
+    
+    .active-new .tag3-new {
+        transform: rotate(10deg) translate(1300px, 10px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5-new {
+        transform: rotate(10deg) translate(1100px, 200px);
+        transition: 3s;
+    }
+    
+}
+
+
+
+@media(max-width:1400px){
+    main{
+        background-position: 130% 160px;
+    }
+
+    .man{
+        right: 80px;
+    }
+
+    .tag1{
+        transform: rotate(15deg) translate(100px, -30px);
+    }
+    
+    .tag2{
+        transform: rotate(-15deg) translate(200px, 200px);   
+    }
+    
+    .tag3{
+        transform: rotate(-15deg) translate(100px, 600px); 
+        font-size: 100px;  
+    }
+    
+    .tag4{
+        transform: rotate(-15deg) translate(670px, 250px);   
+    }
+    
+    .tag5{
+        transform: rotate(-15deg) translate(500px, 600px); 
+    }
+        
+    .active-new .tag1 {
+        transform: rotate(-15deg) translate(100px, 400px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2 {
+        transform: rotate(5deg) translate(500px, 322px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4 {
+        transform: rotate(20deg) translate(100px, -10px);
+        transition: 3s;
+    }
+    
+    .active-new .tag3 {
+        transform: rotate(10deg) translate(750px, -130px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5 {
+        transform: rotate(20deg) translate(450px, -170px);
+        transition: 3s;
+    }
+
+
+    .tag1-new{
+        transform: rotate(15deg) translate(210px, 0);
+    }
+    
+    .tag2-new{
+        transform: rotate(15deg) translate(1000px, -10px);   
+    }
+    
+    .tag3-new{
+        transform: rotate( 15deg) translate(300px, 300px); 
+        font-size: 100px;  
+    }
+    
+    .tag4-new{
+        transform: rotate(15deg) translate(100px, 200px);   
+    }
+    
+    .tag5-new{
+        transform: rotate(15deg) translate(900px, -170px); 
+    }
+    
+    .active-new .tag1-new {
+        transform: rotate(-15deg) translate(140px, 430px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2-new {
+        transform: rotate(5deg) translate(100px, 100px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4-new {
+        transform: rotate(20deg) translate(1000px, -300px);
+        transition: 3s;
+    }
+    
+    .active-new .tag3-new {
+        transform: rotate(10deg) translate(1000px, 10px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5-new {
+        transform: rotate(10deg) translate(1100px, 200px);
+        transition: 3s;
+    }
+}
+
+@media(max-width:1200px){
+    .info h1{
+        font-size: 50px;
+    }
+
+    .info{
+        padding-left: 50px;
+    }
+
+    .man{
+        top: -160px;
+    }
+
+    .popup-call{
+        width: 800px;
+    }
+
+    .arrow{
+        display: none;
+    }
+
+    #price .wrapper{
+        padding-left: 200px;
+    }
+
+    footer{
+        padding: 90px 50px;
+    }
+
+    header{
+        padding: 20px 30px;
+    }
+
+    .tag1{
+        transform: rotate(15deg) translate(100px, -30px);
+    }
+    
+    .tag2{
+        transform: rotate(-15deg) translate(200px, 200px);   
+    }
+    
+    .tag3{
+        transform: rotate(-15deg) translate(100px, 500px); 
+        font-size: 100px;  
+    }
+    
+    .tag4{
+        transform: rotate(-15deg) translate(470px, 230px);   
+    }
+    
+    .tag5{
+        transform: rotate(-15deg) translate(500px, 600px); 
+    }
+        
+    .active-new .tag1 {
+        transform: rotate(-15deg) translate(100px, 400px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2 {
+        transform: rotate(5deg) translate(500px, 322px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4 {
+        transform: rotate(20deg) translate(100px, -30px);
+        transition: 3s;
+    }
+    
+    .active-new .tag3 {
+        transform: rotate(10deg) translate(650px, -130px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5 {
+        transform: rotate(20deg) translate(450px, -170px);
+        transition: 3s;
+    }
+
+
+    .tag1-new{
+        transform: rotate(15deg) translate(210px, 0);
+    }
+    
+    .tag2-new{
+        transform: rotate(15deg) translate(1050px, -10px);   
+    }
+    
+    .tag3-new{
+        transform: rotate( 15deg) translate(300px, 350px); 
+        font-size: 100px;  
+    }
+    
+    .tag4-new{
+        display: none;  
+    }
+    
+    .tag5-new{
+        transform: rotate(15deg) translate(900px, -170px); 
+    }
+    
+    .active-new .tag1-new {
+        transform: rotate(-15deg) translate(140px, 500px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2-new {
+        transform: rotate(5deg) translate(100px, 100px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4-new {
+        display: none;
+    }
+    .tag-hidden4{
+        display: none!important;
+    }
+    
+    .active-new .tag3-new {
+        transform: rotate(10deg) translate(1020px, 10px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5-new {
+        transform: rotate(10deg) translate(850px, 200px);
+        transition: 3s;
+    }
+}
+
+@media(max-width:1024px){
+    .man{
+        top: -165px;
+        width: 400px;
+        right: 10px;
+    }
+
+    .popup-call{
+        width: 600px;
+    }
+
+    main{
+        background-position: 200% 60px;
+        background-size: 800px;
+        padding: 215px 0 182px 0;
+    }
+
+    .features-item-list{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .features-item{
+        margin-left: 60px;
+        margin-right: 60px;
+        margin-bottom: 40px;
+    }
+
+    #price .wrapper{
+        padding-left: 100px;
+    }
+
+    .tag1{
+        transform: rotate(15deg) translate(100px, -30px);
+    }
+    
+    .tag2{
+        transform: rotate(-15deg) translate(200px, 200px);   
+    }
+    
+    .tag3{
+        transform: rotate(-15deg) translate(100px, 400px); 
+        font-size: 100px;  
+    }
+    
+    .tag4{
+        transform: rotate(-15deg) translate(470px, 230px);   
+    }
+    
+    .tag5{
+        transform: rotate(-15deg) translate(500px, 400px); 
+    }
+
+    .tag-hidden3{
+        display: none!important;
+    }
+        
+    .active-new .tag1 {
+        transform: rotate(-15deg) translate(100px, 400px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2 {
+        transform: rotate(5deg) translate(500px, 322px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4 {
+        transform: rotate(20deg) translate(100px, -30px);
+        transition: 3s;
+    }
+    
+    .active-new .tag3 {
+        transform: rotate(10deg) translate(630px, -100px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5 {
+        transform: rotate(20deg) translate(450px, -170px);
+        transition: 3s;
+    }
+
+
+    .tag1-new{
+        transform: rotate(15deg) translate(210px, 0);
+    }
+    
+    .tag2-new{
+        transform: rotate(15deg) translate(900px, -10px);   
+    }
+    
+    .tag3-new{
+        transform: rotate( 15deg) translate(300px, 350px); 
+        font-size: 100px;  
+    }
+    
+    .tag4-new{
+        transform: rotate(15deg) translate(100px, 200px);   
+    }
+    
+    .tag5-new{
+        transform: rotate(15deg) translate(700px, -170px); 
+    }
+    
+    .active-new .tag1-new {
+        transform: rotate(-15deg) translate(140px, 500px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2-new {
+        transform: rotate(5deg) translate(100px, 70px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4-new {
+        transform: rotate(20deg) translate(800px, -250px);
+        transition: 3s;
+    }
+    
+    .active-new .tag3-new {
+        transform: rotate(10deg) translate(800px, 10px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5-new {
+        transform: rotate(10deg) translate(800px, 200px);
+        transition: 3s;
+    }
+}
+
+@media(max-width:950px){
+    .info h1{
+        font-size: 40px;
+    }
+    
+    .tag-hidden5{
+        display: none!important;
+    }
+
+    .tag1{
+        transform: rotate(15deg) translate(100px, -30px);
+    }
+    
+    .tag2{
+        transform: rotate(-15deg) translate(200px, 200px);   
+    }
+    
+    .tag3{
+        transform: rotate(-15deg) translate(100px, 400px); 
+        font-size: 100px;  
+    }
+    
+    .tag4{
+        transform: rotate(-15deg) translate(470px, 230px);   
+    }
+    
+    .tag5{
+        transform: rotate(-15deg) translate(500px, 400px); 
+    }
+        
+    .active-new .tag1 {
+        transform: rotate(-15deg) translate(100px, 400px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2 {
+        transform: rotate(5deg) translate(500px, 322px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4 {
+        transform: rotate(20deg) translate(100px, -50px);
+        transition: 3s;
+    }
+    
+    .active-new .tag3 {
+        transform: rotate(10deg) translate(630px, -100px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5 {
+        transform: rotate(20deg) translate(450px, -170px);
+        transition: 3s;
+    }
+
+
+    .tag1-new{
+        transform: rotate(15deg) translate(210px, 0);
+    }
+    
+    .tag2-new{
+        transform: rotate(15deg) translate(790px, -10px);   
+    }
+    
+    .tag3-new{
+        transform: rotate( 15deg) translate(300px, 350px); 
+        font-size: 100px;  
+    }
+    
+    .tag4-new{
+        display: none!important;
+        transform: rotate(15deg) translate(100px, 200px);   
+    }
+    
+    .tag5-new{
+        transform: rotate(15deg) translate(700px, -170px); 
+        display: none!important;
+    }
+    
+    .active-new .tag1-new {
+        transform: rotate(-15deg) translate(140px, 400px);
+        transition: 3s;
+    }
+    
+    .active-new .tag2-new {
+        transform: rotate(5deg) translate(100px, 70px);
+        transition: 3s;
+    }
+    
+    .active-new .tag4-new {
+        transform: rotate(20deg) translate(800px, -250px);
+        transition: 3s;
+        display: none!important;
+    }
+    
+    .active-new .tag3-new {
+        transform: rotate(10deg) translate(800px, 10px);
+        transition: 3s;
+    }
+    
+    .active-new .tag5-new { 
+        transform: rotate(10deg) translate(900px, 200px);
+        transition: 3s;
+        display: none!important;
+    }
+    #features h2{
+        font-size: 40px;
+        padding-top: 30px;
+
+    }
+
+    .man{
+        top: -122px;
+        width: 350px;
+        right: 60px;
+    }
+
+    main{
+        background-position: 160% 100px;
+        background-size: 700px;
+        padding: 215px 0 162px 0;
+    }
+
+    .features-item-list{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .features-item{
+        margin-left: 60px;
+        margin-right: 60px;
+        margin-bottom: 40px;
+    }
+
+    #price .wrapper{
+        padding-left: 100px;
+    }
+
+    main p {
+        font-size: 20px;
+        margin-bottom: 45px
+    }
+
+    footer{
+        margin: 0;
+        padding: 20px;
+    }
+
+    footer .wrapper{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-menu{
+        margin-bottom: 30px;
+    }
+
+    .footer-menu li{
+        font-size: 20px;
+    }    
+
+    .price-time{
+        font-size: 35px;
+    }
+}
+
+
+@media(max-width:800px){
+    .tag3-new{
+        display: none!important;  
+    }
+
+    .bars-burger{
+        display: block;
+    }
+
+    .order-call{
+        display: none;
+    }
+
+    .header-nav{
+        position: relative;
+        width: 87%;
+        /* background-color: rgb(122, 122, 199);   */
+        top: 20px;
+        display: none;
+    }
+
+    .header-nav li{
+        margin-bottom: 30px;
+        font-size: 30px;
+        
+    }
+
+    .active-new .tag3-new {
+        display: none!important;
+    }
+     .tag2-new {
+        transform: rotate(20deg) translate(700px, 222px);
+    }
+
+    .tags-new span{
+        font-size: 30px;
+    }
+
+    .tags{
+        display: none;
+    }
+
+    main{
+        background-size: 100% 90%;
+        background-position: 100%;
+    }
+
+    .info{
+        text-align: center;
+    }
+
+    .man{
+        display: none;
+    }
+}
+
+
+@media(max-width:700px){
+    .price-time{
+        font-size: 30px;
+    }
+
+    #price .wrapper{
+        padding-left: 50px;
+    }
+
+    .popup-call{
+        width: 500px;
+    }
+
+    .header-nav-new{
+        display: flex!important;
+        flex-direction: column;
+        align-items: center;
+        top: -10px;
+        /* background-color: rgba(238, 41, 41, 0.753); */
+    }
+
+    .header-nav{
+        position: relative;
+        top: 20px;
+    }
+
+}
+
+
+@media(max-width:550px){
+
+    header{
+        padding: 0;
+    }
+
+    main {
+        background-size: 100% 80%;
+    }
+
+    .popup-call{
+        width: 300px;
+        height: 400px;
+    }
+
+    .popup-call-input{
+        height: 20px;
+    }
+
+    .popup-call-lable{
+        font-size: 20px;
+        font-weight: normal;
+    }
+}
+
+@media(max-width:450px){
+    .info h1{
+        font-size: 30px;
+        margin-left: 40px;
+    }
+    .orange-button{
+        padding: 15px 50px;
+    }
+
+    main p{
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+
+    .tags-new{
+        display: none;
+    }
+    .info{
+        padding: 0;
+    }
+
+    #examples h2 {
+        font-size: 44px;
+    }
+
+    .active-new .tag1-new {
+        transform: rotate(-15deg) translate(140px, 500px);
+        transition: 3s;
+    }
+
+    main{
+        padding-top: 130px;
+        padding-bottom: 120px;
+        margin-bottom: 0;
+    }
+
+    #features h2{
+        margin-bottom: 50px;
+    }
+
+    .siema img{
+        width: 250px;
+    }
+
+    .features-item-list{
+        margin-bottom: 20px;
+    }
+
+    .price-time{
+        font-size: 20px;
+        max-width: 350px;
+    }
+
+    .price-money{
+        font-size: 18px;
+        max-width: 350px;
+    }
+
+    #price .wrapper{
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .contacts a{
+        font-size: 20px;
+    }
+}
+
+
+@media(max-width:322px){
+    .info h1{
+        font-size: 25px;
+    }
+
+    .info p{
+        font-size: 18px;
+    }
+
+    #examples h2{
+        font-size: 40px;
+    }
+
+    #price .wrapper{
+        padding-left: 20px;
+    }
+
+    .popup-call{
+        width: 250px;
+        height: 350px;
+    }
+
+    .popup-call-input{
+        height: 20px;
+    }
+
+    .popup-cross{
+        right: 60px;
+    }
+
+    .popup-call-lable{
+        font-size: 20px;
+        font-weight: normal;
+    }
+
+}
